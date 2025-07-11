@@ -60,40 +60,7 @@ controls_list = [
             squat="space",
         ),
     ),
-    dict(
-        name="Elden Ring",
-        mappings=dict(
-            cross="ctrlleft",
-            left_swing="n",
-            left_swing_hold="f",
-            right_swing="space",
-            right_swing_hold="x",
-            face_tilt_left="j",
-            face_tilt_right="l",
-            walk="up",
-            left_walk="left",
-            right_walk="right",
-            down_walk="down",
-            squat="",
-        ),
-    ),
-    dict(
-        name="GoW",
-        mappings=dict(
-            cross="",
-            left_swing="z",
-            left_swing_hold="1",
-            right_swing="f",
-            right_swing_hold="2",
-            face_tilt_left="left",
-            face_tilt_right="right",
-            walk="up",
-            left_walk="left",
-            right_walk="right",
-            down_walk="down",
-            squat="e",
-        ),
-    ),
+   
     dict(
         name="Euro Truck",
         mappings=dict(
